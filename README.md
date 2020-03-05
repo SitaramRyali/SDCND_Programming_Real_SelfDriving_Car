@@ -1,2 +1,2 @@
-# SDCND_Programming_Real_SelfDriving_Car
-SDCND_Programming_Real_SelfDriving_Car
+# SDCND_Programming_Ros
+Exploring the ROS based tutorials
